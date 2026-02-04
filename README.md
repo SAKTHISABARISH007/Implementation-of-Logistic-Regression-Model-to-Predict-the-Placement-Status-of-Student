@@ -80,6 +80,7 @@ plt.show()
 ## Output:
 ![Screenshot_4-2-2026_11412_localhost](https://github.com/user-attachments/assets/ec4dd687-9b29-4a50-8f79-1da131be8362)
 
+
 ![Screenshot_4-2-2026_11422_localhost](https://github.com/user-attachments/assets/f676bc3b-e761-4f5d-bb41-25b511fd1f35)
 
 
