@@ -79,9 +79,20 @@ plt.show()
 
 ## Output:
 
+```
+Accuracy: 0.8837209302325582
 
+Classification Report:
+              precision    recall  f1-score   support
 
-![Screenshot_4-2-2026_11412_localhost](https://github.com/user-attachments/assets/ec4dd687-9b29-4a50-8f79-1da131be8362)
+           0       0.82      0.75      0.78        12
+           1       0.91      0.94      0.92        31
+
+    accuracy                           0.88        43
+   macro avg       0.86      0.84      0.85        43
+weighted avg       0.88      0.88      0.88        43
+
+```
 
 
 ![Screenshot_4-2-2026_11422_localhost](https://github.com/user-attachments/assets/f676bc3b-e761-4f5d-bb41-25b511fd1f35)
